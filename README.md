@@ -1,16 +1,14 @@
-## Hi there 👋
+# KP Zero
 
-<!--
-**kpzerodev/kpzerodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Heya, I'm KP. I'm glad you're here! I'm currently learning Python, but most of my time is spent writing TypeScript.
 
-Here are some ideas to get you started:
+## I can be found most places as `kpzerodev`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   [GitHub](https://github.com/kpzerodev)
+*   [Twitter](https://twitter.com/kpzerodev)
+*   [Mastodon](https://mastodon.social/@kpzerodev)
+*   [LinkedIn](https://www.linkedin.com/in/kpzerodev/)
+
+## Wanna work together?
+
+[Hire me on Upwork](https://www.upwork.com/freelancers/~016325a1e595bfe265?mp_source=share) or, send an email to [kp@kp0.dev](mailto:kp@kp0.dev).
